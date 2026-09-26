@@ -1,0 +1,11 @@
+# Built binaries
+/cappedhttp
+/bombdemo
+examples/**/bombdemo
+*.exe
+*.test
+
+# Coverage output
+*.out
+coverage.txt
+coverage.html
