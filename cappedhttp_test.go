@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/__GH_OWNER__/cappedhttp"
+	"github.com/agentscope-ai-java/cappedhttp"
 )
 
 // gzipBytes compresses data at the given level and returns the compressed

@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/cappedhttp
+module github.com/agentscope-ai-java/cappedhttp
 
 go 1.27

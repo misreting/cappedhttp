@@ -64,7 +64,7 @@ pages.
 ## Install
 
 ```sh
-go get github.com/__GH_OWNER__/cappedhttp
+go get github.com/agentscope-ai-java/cappedhttp
 ```
 
 Go >= 1.27. No runtime dependencies — standard library only.
